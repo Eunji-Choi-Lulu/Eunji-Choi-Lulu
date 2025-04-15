@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Eunji-Choi-Lulu/Eunji-Choi-Lulu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,11 +16,11 @@ Here are some ideas to get you started:
 
 
 ## WELCOME 🚀
-
 저의 깃허브에 오신 것을 환영합니다!😊✨
 
+
 ## 📚 프로그래밍 언어
-___
+
 ### 💻 JavaScript: 초급
 
 * Node.js 기반 개발 환경 구성
@@ -53,7 +52,7 @@ ___
 
 
 ## ⚙️ 운영체제
-___
+
 ### 🐧 리눅스: 초급
 
 * 기본적인 리눅스 작업 가능
