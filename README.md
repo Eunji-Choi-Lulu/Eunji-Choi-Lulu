@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# 🪴 개발 꿈나무의 성장 기록 🚀
+## 개발 꿈나무의 성장 기록 🚀
 
 안녕하세요! 개발자를 꿈꾸며 열심히 공부하고 있는 꿈나무입니다. 제가 지금까지 배우고 익힌 내용들을 기록해 보았습니다.😊✨
 
@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 * **jQuery를 통해 HTML 요소 제어 및 CSS 스타일 변경**
 
 ### 💾 데이터베이스: 초급
-
 * **MySQL을 활용한 CRUD 쿼리 수행 가능**
 * **Union, Join을 통한 데이터 병합 및 조건 선택 수행 가능**
 * **DBeaver를 활용한 로컬 및 원격 DB 연결**
@@ -51,6 +50,7 @@ Here are some ideas to get you started:
 
 * **Remix를 활용한 Ethereum 스마트 컨트랙트 작성**
 * **Ganache로 테스트 블록체인 설치를 통한 블록체인 환경 구축 및 트랜잭션 실습**
+
 
 ## ⚙️ 운영체제
 
